@@ -29,7 +29,7 @@ url: https://knewhart.github.io/
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
-theme: minima
+remote_theme: jekyllt/jasper2
 plugins:
   - jekyll-feed
 
