@@ -4,7 +4,16 @@
 title: Front Page
 ---
 
-*29 Mar 2022*
+*June 2022*
+
+**Recipient of the 2023 ASEE Environmental Engineering Division Early Career Award**
+
+It was an honor to receive the Early Career Award from the Environmental Engineering Division of ASEE for my conference paper: [The Green Escape Room: Part 2 - Teaching Students Professional Engineering Ethics by Applying Environmental Engineering Principles and Deciphering Clues and Puzzles](https://peer.asee.org/40424). In this work, an escape room-style activity was used to challenge senior undergraduate students on their environmental engineering ethics in preparation for the Fundamentals of Engineering exam. I could not have won this award without my co-authors and mentors LTC Andy Pfluger and Dr. Mike Butkus (first and second from the right, respectively). Thank you, Dr. David Sanchez (first from the left) for welcoming me into the Environmental Engineering Division; your passion is an inspiration. 
+
+![Award Ceremony](files/pics/asee-award.jpg){ width=60%,height:30px }
+
+
+*March 2022*
 
 **Open-access textbook: now available!**
 
@@ -13,7 +22,7 @@ Over the past two years, I've worked with a great team of water industry profess
 Download your free copy here: [https://doi.org/10.2166/9781789061796](https://doi.org/10.2166/9781789061796) 
 
 
-*27 Sept 2021*
+*September 2021*
 
 🎉🎉🎉 **100th citation** 🎉🎉🎉
 
